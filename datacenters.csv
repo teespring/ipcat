@@ -652,6 +652,7 @@
 66.241.192.0,66.241.255.255,HostMySite.com,http://www.webmysite.com/
 66.242.128.0,66.242.159.255,Host Depot,http://www.hostdepot.com/
 66.249.0.0,66.249.31.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
+66.249.65.0,66.249.65.255,Google,http://www.google.com/
 66.249.80.0,66.249.95.255,Google,http://www.google.com/
 66.252.0.0,66.252.31.255,gigeNET,http://www.gigenet.com/
 66.252.192.0,66.252.207.255,Host Depot,http://www.hostdepot.com/
